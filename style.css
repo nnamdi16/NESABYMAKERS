@@ -24,7 +24,9 @@ body{
 #nav_link2{
  
     list-style:none;
-    color: gray;   
+    color: gray;
+    float: left;  
+    font-family: 'Courier New', Courier, monospace; 
 }
 
 #nav_link2 li{
