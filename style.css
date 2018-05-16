@@ -1,0 +1,60 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#section1{
+    width: 60%;
+    height: 100%;
+    float: right;
+}
+
+#section2{
+    width: 40%;
+    float: left;
+    
+}
+#nav_link{
+    list-style: none;
+
+    
+    
+}
+
+#nav_link2{
+ 
+    list-style:none;
+    color: gray;   
+}
+
+#nav_link2 li{
+  display: inline;
+  padding: 10px;
+}
+
+
+header{
+    padding: 40px;
+}
+
+.social_media{
+    width:30px;
+    height: 30px;
+    padding: 10px;
+   float:left;
+    
+}
+
+#text_box1{
+    padding: 50px;
+}
+
+h1,p{
+  color: gray;
+}
+
+#footer{
+    width:20px;
+    height: 20px;
+   /* padding: 20px; */
+}
